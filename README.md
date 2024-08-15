@@ -1,5 +1,3 @@
-
-```markdown
 # Meal Mate
 
 **Meal Mate** is a Flutter-based mobile application that helps users discover and manage their favorite meals. The app provides an elegant UI for browsing categories, viewing meal details, and marking meals as favorites. It's a perfect tool for food enthusiasts looking to explore new recipes and keep track of their favorites.
@@ -11,10 +9,6 @@
 - **Favorites**: Mark meals as favorites and access them easily from the favorites tab.
 - **Filtering**: Apply filters to customize the list of available meals according to dietary preferences.
 - **Elegant UI**: Enjoy a visually appealing interface with smooth transitions and a modern design.
-
-## Screenshots
-
-*Insert screenshots here*
 
 ## Installation
 
